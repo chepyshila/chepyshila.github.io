@@ -1,3 +1,22 @@
-body{
-    background-color: pink;
+body {
+     font-family: Arial, sans-serif; 
+    }
+header {
+     background-color: #f8d7da; 
+     padding: 20px;
+      text-align: center;
+     }
+.product {
+     margin: 20px; 
+     padding: 10px; 
+     border: 1px solid #ccc; 
+     width: 250px;
+    }
+.product img{
+    width: 200px;
+    height: 200px;
+}    
+section{
+    display: flex;
+    flex-direction: row;
 }
